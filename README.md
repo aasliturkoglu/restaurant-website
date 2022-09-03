@@ -1,4 +1,5 @@
 # restaurant-website
+To access the codes of the project, you must go to the pages branch.
 html, css, js
 
 
@@ -8,3 +9,5 @@ The menu and reservation pages were made by me and of course my group mates also
 
 Here I leave a youtube video promoting the site. It has Turkish and English subtitles
 https://www.youtube.com/watch?v=JTTwzGIQDsE
+
+
