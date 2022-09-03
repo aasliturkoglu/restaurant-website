@@ -1,6 +1,6 @@
 # restaurant-website
 To access the codes of the project, you must go to the pages branch.
-html, css, js
+
 
 If you want to see the project, click this link.
 https://aasliturkoglu.github.io/restaurant-website/site/home.html
