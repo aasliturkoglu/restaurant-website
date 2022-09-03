@@ -2,6 +2,9 @@
 To access the codes of the project, you must go to the pages branch.
 html, css, js
 
+If you want to see the project, click this link.
+https://aasliturkoglu.github.io/restaurant-website/site/home.html
+
 
 Our group project in the UI course, which is our 2nd year course at Akdeniz University.
 We were a group of 4.
